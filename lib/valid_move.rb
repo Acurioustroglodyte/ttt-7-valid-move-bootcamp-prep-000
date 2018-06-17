@@ -18,4 +18,4 @@ def position_taken?(board, index)
 end
 
 board = ["", " ", nil, ""]
-valid_move?(board, 1)
+return valid_move?(board, 1)
