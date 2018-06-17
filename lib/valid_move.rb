@@ -16,6 +16,3 @@ def position_taken?(board, index)
     return true
   end
 end
-
-board = ["", " ", nil, ""]
-return valid_move?(board, 1)
